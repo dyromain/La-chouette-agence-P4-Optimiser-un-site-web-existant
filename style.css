@@ -754,12 +754,18 @@ h2 {
     font-weight:1000;
 }
 
+
 #bloc-1-hero > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(3)
 {
     color: white;
     font-size: 18px;
     margin-top: 0;
     font-weight:700;
+}
+
+#bloc-5-cta > div:nth-child(1) > h2:nth-child(1)
+{
+    position:relative;
 }
 
 h3 {

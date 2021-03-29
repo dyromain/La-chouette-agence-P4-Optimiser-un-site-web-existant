@@ -61,6 +61,11 @@ a:hover {
     margin-bottom:2%;
 }
 
+#p-contact
+{
+    font-size:17px;
+}
+
 .col-sm-4 p
 {
     font-size: 15px;
@@ -720,6 +725,11 @@ a {
 
 p {
     font-size: 14px;
+}
+
+#contact-details
+{
+    line-height: 30px;
 }
 
 .tight-width-whitespace {

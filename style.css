@@ -676,6 +676,7 @@ a[data-lightbox]:hover img {
     padding: 0;
     color: rgba(0, 0, 0, .5);
     background: none;
+    text-align:center;
 }
 
 h1,
@@ -743,7 +744,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto auto 2% auto;
 }
 
 h2 {
@@ -796,6 +797,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    margin-bottom:3%;
 }
 
 .portfolio-thumb {

@@ -837,6 +837,11 @@ h4 {
     margin-bottom:3%;
 }
 
+.img-responsive
+{
+    aspect-ratio: attr(320) / attr(320);
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }

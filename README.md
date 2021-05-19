@@ -15,4 +15,6 @@ Compétences évaluées
 - Optimiser la taille et la vitesse d’un site web
 - Réaliser une recherche des bonnes pratiques en développement web
 
+Lien vers le site : https://dyromain.github.io/RomainDyrac_4_03122020/
+
  
